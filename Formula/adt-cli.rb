@@ -1,10 +1,10 @@
 class AdtCli < Formula
   desc "Android Development Tools - CLI for Android project analysis and workspace generation"
   homepage "https://github.com/yamsergey/yamsergey.adt"
-  url "https://github.com/yamsergey/yamsergey.adt/releases/download/1.0.3/adt-cli-1.0.3.tar.gz"
-  sha256 ""
+  url "https://github.com/yamsergey/yamsergey.adt/releases/download/1.0.4/adt-cli-1.0.4.tar.gz"
+  sha256 "6bb72ff7713088b3c8375ea2a75b000f2984a8f96163e002acdaa52eec473670"
   license "Apache-2.0"
-  version "1.0.3"
+  version "1.0.4"
 
   depends_on "openjdk@21"
 
